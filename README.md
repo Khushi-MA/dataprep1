@@ -16,18 +16,14 @@ Make two folders:
 
 ## Step 2
 
-<video width="320" height="240" controls>
-  <source src="./assets/Aadhar_Card.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Aadhar Card GIF](./assets/aadhar_card.gif)
 
 Divide this video's part part and put it in "Words" folder, and it format - <u>a{index} {sign name}.mp4</u>
 
 like the one given below:
-<video width="320" height="240" controls>
-  <source src="./assets/a1 aadhar_card.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+![Aadhar Card GIF](./assets/a1%20aadhar_card.gif)
+
 Which is named as <u>a1 aadhar_card.mp4</u>
 video index is considered **001**, name is **aadhar_card (all in small letters)**
 
